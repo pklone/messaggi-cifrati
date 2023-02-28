@@ -1,0 +1,2 @@
+#ignorare i file autogenerati da macOS
+.DS_Store
